@@ -13,9 +13,8 @@ I am a third-year Ph.D student in School of Computer Science and Engineering, Na
 Research Interests
 ======
 1. Deep Learning: 
-   1) Graph Neural Networks
-   2) Contrastive Learning
-2. Software Engineering:
-   1) Software Vulnerability Detection
-   2) Code Summarization
-   3) Deep Code Search
+   Graph Neural Networks, Contrastive Learning
+2. Software Engineering: Software Vulnerability Detection, Code Summarization, Deep Code Search
+
+News
+======
