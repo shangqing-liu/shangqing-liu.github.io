@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=ev-Zbf4AAAAJ){:target="_blank"} profile.
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}.
 
 
 ### 2020
@@ -17,5 +17,5 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   * **Ruitao Feng**, Yang Liu, and Shang-Wei Lin. **A Performance-Sensitive Malware Detection System on Mobile Platform.** In _Proceedings of the 21st International Conference on Formal Engineering Methods_.
   * **Ruitao Feng**, Guozhu Meng, Xiaofei Xie, TingSu, Yang Liu, and Shang-Wei Lin. **Learning Performance Optimization from Code Changesfor Android Apps.** In _Proceedings of the 12th International Conference on Software Testing, Verification and Validation Workshops_.
 
-### 2018
-  * Guozhu Meng, **Ruitao Feng**, Guangdong Bai, Kai Chen, and Yang Liu. **DroidEcho: an in Depth Dissecti on of Malicious Behaviors in Android Applications.** In _Cybersecurity_.
+### 2017
+  * Shangqing Liu, Yanchao Zhao, Bing Chen. **WiSmart: Robust human access and identification for smart homes using WiFi signals.** In _Proceedings of International Conference on Cloud Computing and Security_.
