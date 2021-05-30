@@ -13,9 +13,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   * **Ruitao Feng**, Jing Qiang Lim, Sen Chen, Shang-Wei Lin, and Yang Liu. **SeqMobile: An Efficient Sequence-Based Malware Detection System Using RNN on Mobile Devices.** In _Proceedings of the 25th International Conference on Engineering of Complex Computer Systems_.
 
 ### 2019
-  * **Ruitao Feng**, Sen Chen, Xiaofei Xie, Lei Ma, Guozhu Meng, Yang Liu, and Shang-Wei Lin. **MobiDroid: A Performance-Sensitive Malware Detection System on Mobile Platform.** In _Proceedings of the 24th International Conference on Engineering of Complex Computer Systems_.
-  * **Ruitao Feng**, Yang Liu, and Shang-Wei Lin. **A Performance-Sensitive Malware Detection System on Mobile Platform.** In _Proceedings of the 21st International Conference on Formal Engineering Methods_.
-  * **Ruitao Feng**, Guozhu Meng, Xiaofei Xie, TingSu, Yang Liu, and Shang-Wei Lin. **Learning Performance Optimization from Code Changesfor Android Apps.** In _Proceedings of the 12th International Conference on Software Testing, Verification and Validation Workshops_.
-
+  * (NeurIPs 2019) Yanqin Zhou, **Shangqing Liu**, Jingkai Siow, Xiaoning Du, Yang Liu. **Devign: Effective vulnerability identification by learning comprehensive program semantics via graph neural networks. In Proceedings of the Thirty-three Conference on Neural Information Processing Systems.
+  * (JCIN) Yanchao Zhao, **Shangqing Liu**, Bing Chen, Xiang Chen. **DeepCount: Crowd Counting with Wi-Fi Using Deep Learning.** In Journal of Communications and Information Networks.
 ### 2017
-  * Shangqing Liu, Yanchao Zhao, Bing Chen. **WiSmart: Robust human access and identification for smart homes using WiFi signals.** In _Proceedings of International Conference on Cloud Computing and Security_.
+  * (ISPA 2017) **Shangqing Liu**, Yanchao Zhao, Bing Chen. **WiCount: A deep learning approach for crowd counting using WiFi signals.** In _Proceedings of 2017 IEEE International Symposium on Parallel and Distributed Processing with Applications and 2017 IEEE International Conference on Ubiquitous Computing and Communications (ISPA/IUCC).
+  * (ICCCS 2017) **Shangqing Liu**, Yanchao Zhao, Bing Chen. **WiSmart: Robust human access and identification for smart homes using WiFi signals.** In Proceedings of International Conference on Cloud Computing and Security.
