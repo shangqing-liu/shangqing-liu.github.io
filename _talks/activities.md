@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Acamedic Services"
+title: "Acamedic Activities"
 permalink: /talks/
 author_profile: true
 ---
