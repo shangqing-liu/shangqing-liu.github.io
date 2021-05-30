@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shangqing Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Shangqing Liu"
-description              : &description "PhD student at Nanyang Technological University"
+description              : &description "a PhD student at Nanyang Technological University"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shangqingliu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shangqing Liu"
   avatar           : "profile.png"
-  bio              : "PhD student at Nanyang Technological University"
+  bio              : "a PhD student at Nanyang Technological University"
   location         : "Singapore"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
