@@ -19,3 +19,6 @@ Research Interests
 
 News
 ======
+1. (5/2021) Our paper "SPI: Automated Identification of Security Patches via Commits" is accepted by TOSEM.
+2. (4/2021) Join NeuriPs 2021 as reviewers.
+2. (1/2021) Our paper "Retrieval-Augmented Generation for Code Summarization via Hybrid GNN” is accepted by ICLR 2021 (spotlight).
