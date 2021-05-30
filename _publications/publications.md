@@ -9,9 +9,9 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 ### 2021
-  * (ICLR 2021) **Shangqing Liu**, Yu Chen, Xiaofei Xie*, Jingkai Siow and Yang Liu. **Retrieval-Augmented Generation for Code Summarization via Hybrid GNN** In Proceedings of the 9th International Conference on Learning Representations (spotlight).
+  * (ICLR 2021) **Shangqing Liu**, Yu Chen, Xiaofei Xie, Jingkai Siow and Yang Liu. **Retrieval-Augmented Generation for Code Summarization via Hybrid GNN** In Proceedings of the 9th International Conference on Learning Representations (spotlight).
 
-  
+
 ### 2020
   * (TSE) **Shangqing Liu**, Cuiyun Gao, Sen Chen, Nie Lun Yiu, Yang Liu. **ATOM: Commit message generation based on abstract syntax tree and hybrid ranking.** In IEEE Transactions on Software Engineering.
   * (ASE Student Competition) **Shangqing Liu.** **A Unified Framework to Learn Program Semantics with Graph Neural Networks.**  In Proceedings of 2020 35th IEEE/ACM International Conference on Automated Software Engineering (ASE).
@@ -19,7 +19,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   * (JSEP) Xiang Chen, Yanzhou Mu, Yubin Qu, Chao Ni, Meng Liu, Tong He, **Shangqing Liu**. **Do different cross‐project defect prediction methods identify the same defective modules?.** In Journal of Software: Evolution and Process.
 
 ### 2019
-  * (NeurIPs 2019) Yanqin Zhou, **Shangqing Liu**, Jingkai Siow, Xiaoning Du, Yang Liu. **Devign: Effective vulnerability identification by learning comprehensive program semantics via graph neural networks.** In Proceedings of the Thirty-three Conference on Neural Information Processing Systems.
+  * (NeurIPs 2019) Yanqin Zhou, **Shangqing Liu\***, Jingkai Siow, Xiaoning Du, Yang Liu. **Devign: Effective vulnerability identification by learning comprehensive program semantics via graph neural networks.** In Proceedings of the Thirty-three Conference on Neural Information Processing Systems.
   * (JCIN) Yanchao Zhao, **Shangqing Liu**, Bing Chen, Xiang Chen. **DeepCount: Crowd Counting with Wi-Fi Using Deep Learning.** In Journal of Communications and Information Networks.
 
 ### 2017
