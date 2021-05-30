@@ -1,10 +1,3 @@
-<!-- 2017
----
-1. (ICCCS 2017) Shangqing Liu, Yanchao Zhao, Bing Chen “WiSmart: Robust human access and identification for smart homes using WiFi signals” In Proceedings of International Conference on Cloud Computing and Security, 855-861.
-2. (ISPA 2017) Shangqing Liu, Yanchao Zhao, Bing Chen "WiCount: A deep learning approach for crowd counting using WiFi signals" In Proceedings of 2017 IEEE International Symposium on Parallel and Distributed Processing with Applications and 2017 IEEE International Conference on Ubiquitous Computing and Communications (ISPA/IUCC), 967-974.
---- -->
-
----
 title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1.md
