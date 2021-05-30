@@ -24,5 +24,5 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
   * (JCIN) Yanchao Zhao, **Shangqing Liu**, Bing Chen, Xiang Chen. **DeepCount: Crowd Counting with Wi-Fi Using Deep Learning.** In Journal of Communications and Information Networks.
 
 ### 2017
-  * (ISPA 2017) **Shangqing Liu**, Yanchao Zhao, Bing Chen. **WiCount: A deep learning approach for crowd counting using WiFi signals.** In _Proceedings of 2017 IEEE International Symposium on Parallel and Distributed Processing with Applications and 2017 IEEE International Conference on Ubiquitous Computing and Communications (ISPA/IUCC).
+  * (ISPA 2017) **Shangqing Liu**, Yanchao Zhao, Bing Chen. **WiCount: A deep learning approach for crowd counting using WiFi signals.** In Proceedings of 2017 IEEE International Symposium on Parallel and Distributed Processing with Applications and 2017 IEEE International Conference on Ubiquitous Computing and Communications (ISPA/IUCC).
   * (ICCCS 2017) **Shangqing Liu**, Yanchao Zhao, Bing Chen. **WiSmart: Robust human access and identification for smart homes using WiFi signals.** In Proceedings of International Conference on Cloud Computing and Security.
