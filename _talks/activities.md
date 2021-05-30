@@ -4,9 +4,9 @@ title: "Acamedic Activites"
 permalink: /talks/
 author_profile: true
 ---
-* **Program Semantics Learning with Deep Learning.** Nanjing University of Aeronautics and Astronautics, China.
+* Reviewer/sub-reviewer of journals and conferences: TSE, TOSEM, ASE, MSR.
 
 
-## Invited Talks
+# Invited Talks
 * **Program Semantics Learning with Deep Learning.** Nanjing University of Aeronautics and Astronautics, China.
   
