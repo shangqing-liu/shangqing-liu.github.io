@@ -19,7 +19,7 @@ Research Interests
 
 News
 ======
-1. (4/2021) Join ICLR 2022 as reviewers.
+1. (6/2021) Join ICLR 2022 as reviewers.
 2. (5/2021) Our paper "SPI: Automated Identification of Security Patches via Commits" is accepted by TOSEM.
 3. (4/2021) Join NeurIPs 2021 as reviewers.
 4. (1/2021) Our paper "Retrieval-Augmented Generation for Code Summarization via Hybrid GNN” is accepted by ICLR 2021 (spotlight).
