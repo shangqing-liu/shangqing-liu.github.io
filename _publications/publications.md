@@ -9,6 +9,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 ### 2021
+  * (SANER 2022) Jingkai Siow, **Shangqing Liu\***, Xiaofei Xie, Guozhu Meng, Yang Liu. **Learning Program Semantics with Code Representations: An Empirical Study.** In Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2022).
   * (TOSEM) Yaqin Zhou, Jingkai Siow, Chenyu Wang, **Shangqing Liu**, Yang Liu. **SPI: Automated Identification of Security Patches via Commits.** In ACM Transactions on Software Engineering and Methodology.
   * (ICLR 2021) **Shangqing Liu**, Yu Chen, Xiaofei Xie, Jingkai Siow and Yang Liu. **Retrieval-Augmented Generation for Code Summarization via Hybrid GNN.** In Proceedings of the 9th International Conference on Learning Representations (spotlight).
 
