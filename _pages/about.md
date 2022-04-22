@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D student in Cyber Security Lab (CSL), Nanyang Technological University, Singapore, supervised by [Prof.Yang Liu](https://personal.ntu.edu.sg/yangliu/). Before that, I was a Research Assistant in CSL.
+I am a Ph.D student in Cyber Security Lab (CSL), Nanyang Technological University, Singapore, supervised by [Prof.Yang Liu](https://personal.ntu.edu.sg/yangliu/). Before that, I was a Research Assistant at CSL.
 <!-- I reveived my MSc (2015-2018) degree from Nanjing University of Aeronautics and Astronautics, China supervised by [Prof.Bing Chen](http://faculty.nuaa.edu.cn/cb4/zh_CN/index.htm).  -->
 
 Research Interests
@@ -20,7 +20,7 @@ Research Interests
 
 News
 ======
-*  (04/2022) I have submitted my thesis "Learning program semantics via exploring program structures with deep learning”.
+*  (04/2022) I have submitted my Ph.D thesis "Learning program semantics via exploring program structures with deep learning”.
 *  (03/2022) Join NeurIPs 2022 as reviewers.
 *  (01/2022) Join ICML 2022 as reviewers.
 *  (12/2021）Our paper "Learning Program Semantics with Code Representations: An Empirical Study" is accepted by SANER 2022.
