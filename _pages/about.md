@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral researcher in Cyber Security Lab (CSL), Nanyang Technological University, Singapore, my Ph.D study is supervised by [Prof.Yang Liu](https://personal.ntu.edu.sg/yangliu/). Before that, I was a Research Assistant at CSL.
+I am a doctoral researcher at Cyber Security Lab (CSL), Nanyang Technological University (NTU), Singapore and my Ph.D study is supervised by [Prof.Yang Liu](https://personal.ntu.edu.sg/yangliu/) in NTU. Before that, I was a Research Assistant at CSL.
 <!-- I reveived my MSc (2015-2018) degree from Nanjing University of Aeronautics and Astronautics, China supervised by [Prof.Bing Chen](http://faculty.nuaa.edu.cn/cb4/zh_CN/index.htm).  -->
 
 Research Interests
