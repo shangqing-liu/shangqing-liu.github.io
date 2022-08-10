@@ -28,13 +28,13 @@ I am a research associate at Cyber Security Lab (CSL), Nanyang Technological Uni
 
 News
 ======
-*  (08/2022) Join AAAI 2023 as reviewers.
+*  (08/2022) Join ICLR 2023, AAAI 2023 as reviewers.
 *  (07/2022) Our paper "Enhancing Security Patch Identification by Capturing Structures in Commits” is accepted by TDSC.
 *  (04/2022) I have submitted my Ph.D thesis "Learning program semantics via exploring program structures with deep learning”.
-*  (03/2022) Join NeurIPs 2022 as reviewers.
+*  (03/2022) Join NeurIPS 2022 as reviewers.
 *  (01/2022) Join ICML 2022 as reviewers.
 *  (12/2021）Our paper "Learning Program Semantics with Code Representations: An Empirical Study" is accepted by SANER 2022.
 *  (6/2021) Join ICLR 2022 as reviewers.
 *  (5/2021) Our paper "SPI: Automated Identification of Security Patches via Commits" is accepted by TOSEM.
-*  (4/2021) Join NeurIPs 2021 as reviewers.
+*  (4/2021) Join NeurIPS 2021 as reviewers.
 *  (1/2021) Our paper "Retrieval-Augmented Generation for Code Summarization via Hybrid GNN” is accepted by ICLR 2021 (spotlight).
