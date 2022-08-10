@@ -11,7 +11,8 @@ redirect_from:
 I am a research associate at Cyber Security Lab (CSL), Nanyang Technological University (NTU), Singapore and my Ph.D study is supervised by [Full Prof.Yang Liu](https://personal.ntu.edu.sg/yangliu/) at NTU. Before that, I was a research assistant at CSL. My research focuses on employing deep learning techniques to assist software engineering development as follows:
 
 
-<strong>Program Semantics Comprehension</strong>. We aim at learning program semantics by extracting program structures with graph neural networks(GNNs). An empirical study is conducted to illustrate different program structures for learning program semantics (SANER 2022). We also employ GNNs to learn program semantics for various software engineering tasks such as software vulnerability detection (NeurIPS 2019), source code summarization (ICLR 2021), deep code search.  
+<strong>Program Semantics Comprehension</strong>. We aim at learning program semantics with deep learning techniques. We conduct a broad research to explore learning program semantics with different program structures. An empirical study is conducted to illustrate different program structures for learning program semantics (SANER 2022). We also employ GNNs to learn program semantics for various software engineering tasks such as software vulnerability detection (NeurIPS 2019), source code summarization (ICLR 2021), deep code search. A transformer-based model is also designed for repairing program compilation errors (ASE 2022).
+
 
 <strong>Commit-level Applications</strong>. We design several tools for commits to facilitate software engineering development such as commit message generation (TSE 2020), security patch identification (TOSEM 2021, TDSC 2022). 
 
@@ -27,6 +28,7 @@ I am a research associate at Cyber Security Lab (CSL), Nanyang Technological Uni
 
 News
 ======
+*  (08/2022) Join AAAI 2023 as reviewers.
 *  (07/2022) Our paper "Enhancing Security Patch Identification by Capturing Structures in Commits” is accepted by TDSC.
 *  (04/2022) I have submitted my Ph.D thesis "Learning program semantics via exploring program structures with deep learning”.
 *  (03/2022) Join NeurIPs 2022 as reviewers.
