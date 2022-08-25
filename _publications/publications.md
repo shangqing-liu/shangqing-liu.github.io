@@ -7,6 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that I am co-first author, \* implies that I am the corresponding author.
 ### 2022 
+  * (ASE22) Xueyang Li, **Shangqing Liu\#**, Ruitao Feng, Guozhu Meng, Xiaofei Xie, Kai Chen, Yang Liu. **TransRepair: Context-aware Program Repair for Compilation Errors.** In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering.
   * (TDSC) Bozhi Wu, **Shangqing Liu\***, Ruitao Feng, Xiaofei Xie, Jingkai Siow, Shang-Wei Lin. **Enhancing Security Patch Identification by Capturing Structures in Commits.** In Transactions on Dependable and Secure Computing.
 
 

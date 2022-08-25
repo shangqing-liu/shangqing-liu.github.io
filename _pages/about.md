@@ -28,6 +28,7 @@ I am a research associate at Cyber Security Lab (CSL), Nanyang Technological Uni
 
 News
 ======
+*  (08/2022) Our paper "TransRepair: Context-aware Program Repair for Compilation Errors” is accepted by ASE22.
 *  (08/2022) Join ICLR 2023, AAAI 2023 as reviewers.
 *  (07/2022) Our paper "Enhancing Security Patch Identification by Capturing Structures in Commits” is accepted by TDSC.
 *  (04/2022) I have submitted my Ph.D thesis "Learning program semantics via exploring program structures with deep learning”.
