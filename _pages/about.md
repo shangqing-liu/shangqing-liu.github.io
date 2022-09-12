@@ -14,7 +14,7 @@ I am a research associate at Cyber Security Lab (CSL), Nanyang Technological Uni
 <strong>Program Semantics Comprehension</strong>. We aim at learning program semantics with deep learning techniques. We conduct a broad research to explore learning program semantics with different program structures. An empirical study is conducted to illustrate different program structures for learning program semantics (SANER 2022). We also employ GNNs to learn program semantics for various software engineering tasks such as software vulnerability detection (NeurIPS 2019), source code summarization (ICLR 2021), deep code search. A transformer-based model is also designed for repairing program compilation errors (ASE 2022).
 
 
-<strong>Commit-level Applications</strong>. We design several tools for commits to facilitate software engineering development such as commit message generation (TSE 2020), security patch identification (TOSEM 2021, TDSC 2022). 
+<strong>Commit-level Applications</strong>. We design several tools for commits to facilitate software engineering development such as commit message generation (TSE 2020), security patch identification (TOSEM 2021, TDSC 2022). We also train a large-scale pre-trained model CommitBART to support commit-related classification and generation tasks. 
 
 
 <!-- I reveived my MSc (2015-2018) degree from Nanjing University of Aeronautics and Astronautics, China supervised by [Prof.Bing Chen](http://faculty.nuaa.edu.cn/cb4/zh_CN/index.htm).  -->
