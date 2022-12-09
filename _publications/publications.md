@@ -7,11 +7,12 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that I am co-first author, \* implies that I am the corresponding author.
 ### 2022 
+  * (ICSE23) **Shangqing Liu**, Bozhi Wu, Xiaofei Xie, Guozhu Meng, Yang Liu. **ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning.** In Proceedings of the 45th IEEE/ACM International Conference on Software Engineering (ICSE 2023).
   * (ASE22) Xueyang Li, **Shangqing Liu\#**, Ruitao Feng, Guozhu Meng, Xiaofei Xie, Kai Chen, Yang Liu. **TransRepair: Context-aware Program Repair for Compilation Errors.** In Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering.
   * (TDSC) Bozhi Wu, **Shangqing Liu\***, Ruitao Feng, Xiaofei Xie, Jingkai Siow, Shang-Wei Lin. **Enhancing Security Patch Identification by Capturing Structures in Commits.** In Transactions on Dependable and Secure Computing.
 
 
-
+ 
 ### 2021
   * (SANER 2022) Jingkai Siow, **Shangqing Liu\#**, Xiaofei Xie, Guozhu Meng, Yang Liu. **Learning Program Semantics with Code Representations: An Empirical Study.** In Proceedings of the 29th IEEE International Conference on Software Analysis, Evolution and Reengineering.
   * (TOSEM) Yaqin Zhou, Jingkai Siow, Chenyu Wang, **Shangqing Liu**, Yang Liu. **SPI: Automated Identification of Security Patches via Commits.** In ACM Transactions on Software Engineering and Methodology.
