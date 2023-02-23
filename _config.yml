@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shangqing Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Shangqing Liu"
-description              : &description "a researcher associate at Nanyang Technological University"
+description              : &description "Researcher Fellow at NTU"
 url                      : https://shangqing-liu.github.io   # the base hostname & protocol for your site e.g. "https://shangqing-liu.github.io/shangqingliu.github.io "
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shangqingliu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shangqing Liu"
   avatar           : "profile.png"
-  bio              : "a research associate at Nanyang Technological University"
+  bio              : "Research Fellow at NTU"
   location         : "Singapore"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
