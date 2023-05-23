@@ -28,6 +28,7 @@ I am a research fellow at Cyber Security Lab (CSL), Nanyang Technological Univer
 
 News
 ======
+*  (05/2023) Our paper "Multi-target Backdoor Attacks for Code Pre-trained Models" is accepted by ACL23.
 *  (12/2022) Our paper "GraphSearchNet: Enhancing GNNs via Capturing Global Dependencies for Semantic Code Search" is accepted by TSE.
 *  (12/2022) Our paper "Learning Program Representations with a Tree-Structured Transformer" is accepted by SANER23.
 *  (12/2022) Our paper "ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning" is accepted by ICSE23.

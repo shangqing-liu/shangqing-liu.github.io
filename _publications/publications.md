@@ -7,6 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that I am co-first author, \* implies that I am the corresponding author.
 ### 2023
+  * (ACL 2023) Yanzhou Li, **Shangqing Liu\***, Kangjie Chen, Xiaofei Xie, Tianwei Zhang, Yang Liu. **Multi-target Backdoor Attacks for Code Pre-trained Models.** In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics.
   * (TSE) **Shangqing Liu**, Xiaofei Xie, Jingkai Siow, Lei Ma, Guozhu Meng, Yang Liu. **GraphSearchNet: Enhancing GNNs via Capturing Global Dependencies for Semantic Code Search.** In IEEE Transactions on Software Engineering.
   * (ICSE 2023) **Shangqing Liu**, Bozhi Wu, Xiaofei Xie, Guozhu Meng, Yang Liu. **ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning.** In Proceedings of the 45th IEEE/ACM International Conference on Software Engineering.
   * (SANER 2023) Wenhan Wang, Kechi Zhang, Ge Li, **Shangqing Liu**, Anran Li, Zhi Jin, Yang Liu. **Learning Program Representations with a Tree-Structured Transformer.** In Proceedings of the 30th IEEE International Conference on Software Analysis, Evolution and Reengineering.
