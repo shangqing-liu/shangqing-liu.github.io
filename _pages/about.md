@@ -28,6 +28,8 @@ I am a research fellow at Cyber Security Lab (CSL), Nanyang Technological Univer
 
 News
 ======
+*  (07/2023) Our paper "Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases" is accepted by ASE23.
+*  (07/2023) Our paper "Learning to Locate and Describe Vulnerabilities" is accepted by ASE23.
 *  (05/2023) Our paper "Multi-target Backdoor Attacks for Code Pre-trained Models" is accepted by ACL23.
 *  (12/2022) Our paper "GraphSearchNet: Enhancing GNNs via Capturing Global Dependencies for Semantic Code Search" is accepted by TSE.
 *  (12/2022) Our paper "Learning Program Representations with a Tree-Structured Transformer" is accepted by SANER23.
