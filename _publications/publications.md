@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that I am co-first author, \* implies that I am the corresponding author.
 ### 2023
   * (ASE 2023) Ze Tang, Jidong Ge\*, **Shangqing Liu\***, Tingwei Zhu, Tongtong Xu, Liguo Huang, Bin Luo. **Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases.** In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering.
-  * (ASE 2023) Jian Zhang, **Shangqing Liu\***, Xu Wang, Tianlin Li, Yang Liu. ** Learning to Locate and Describe Vulnerabilities.** In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering.
+  * (ASE 2023) Jian Zhang, **Shangqing Liu\***, Xu Wang, Tianlin Li, Yang Liu. **Learning to Locate and Describe Vulnerabilities.** In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering.
   * (ACL 2023) Yanzhou Li, **Shangqing Liu\***, Kangjie Chen, Xiaofei Xie, Tianwei Zhang, Yang Liu. **Multi-target Backdoor Attacks for Code Pre-trained Models.** In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics.
   * (TSE) **Shangqing Liu**, Xiaofei Xie, Jingkai Siow, Lei Ma, Guozhu Meng, Yang Liu. **GraphSearchNet: Enhancing GNNs via Capturing Global Dependencies for Semantic Code Search.** In IEEE Transactions on Software Engineering.
   * (ICSE 2023) **Shangqing Liu**, Bozhi Wu, Xiaofei Xie, Guozhu Meng, Yang Liu. **ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning.** In Proceedings of the 45th IEEE/ACM International Conference on Software Engineering.
