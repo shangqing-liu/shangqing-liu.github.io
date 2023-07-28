@@ -11,23 +11,19 @@ redirect_from:
 I am a research fellow at Cyber Security Lab (CSL), Nanyang Technological University (NTU), Singapore and my Ph.D study is supervised by [Full Prof.Yang Liu](https://personal.ntu.edu.sg/yangliu/) at NTU (2019-2022). Before that, I was a research assistant at CSL. My research focuses on employing deep learning techniques to assist software engineering development as follows:
 
 
-<strong>Program Semantics Comprehension</strong>. We aim at learning program semantics with deep learning techniques. We conduct a broad research to explore learning program semantics with different program structures. An empirical study is conducted to illustrate different program structures for learning program semantics (SANER 2022). We also employ GNNs to learn program semantics for various software engineering tasks such as software vulnerability detection (NeurIPS 2019), source code summarization (ICLR 2021), deep code search (TSE 2022). A transformer-based model is also designed for repairing program compilation errors (ASE 2022). We also explore to enhance the robustness of current pre-trained code models by contrastive learning (ICSE 2023).
+<strong>Program Semantics Comprehension</strong>. We aim at learning program semantics with deep learning techniques. We conduct a broad research to explore learning program semantics with different program structures. An empirical study is conducted to illustrate different program structures for learning program semantics (SANER 2022). We also employ GNNs to learn program semantics for various software engineering tasks such as software vulnerability detection (NeurIPS 2019, FSE 2023), source code summarization (ICLR 2021), deep code search (TSE 2022). A transformer-based model is also designed for repairing program compilation errors (ASE 2022). 
+
+<strong>Code Pre-trained Models</strong>. We conduct a broad research to design and analyze code pre-trained models. We design several probing tasks to
+analyze code pre-trained models in learning syntax and semantics. We propose to enhance the robustness of code pre-trained models by contrastive learning (ICSE 2023). A backdoor code model is also proposed to attack code pre-trained models (ACL 2023). 
 
 
 <strong>Software Repository Mining</strong>. We design several tools for commits to facilitate software engineering development such as commit message generation (TSE 2020), security patch identification (TOSEM 2021, TDSC 2022). We also train a large-scale pre-trained model CommitBART to support commit-related classification tasks and generation tasks. 
 
 
-<!-- I reveived my MSc (2015-2018) degree from Nanjing University of Aeronautics and Astronautics, China supervised by [Prof.Bing Chen](http://faculty.nuaa.edu.cn/cb4/zh_CN/index.htm).  -->
-
-<!-- Research Interests
-======
-1. Deep Learning: Graph Neural Networks, Contrastive Learning.
-2. AI in Software Engineering: 
-    - Classification Applications: Software Vulnerability Detection, Deep Code Search.
-    - Generation Applications: Source Code Summarization. -->
 
 News
 ======
+*  (07/2023) Our paper "Learning Program Semantics for Vulnerability Detection via Vulnerability-specific Inter-procedural Slicing" is accepted by ESEC/FSE23.
 *  (07/2023) Our paper "Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases" is accepted by ASE23.
 *  (07/2023) Our paper "Learning to Locate and Describe Vulnerabilities" is accepted by ASE23.
 *  (05/2023) Our paper "Multi-target Backdoor Attacks for Code Pre-trained Models" is accepted by ACL23.

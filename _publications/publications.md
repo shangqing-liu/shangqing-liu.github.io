@@ -7,6 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that I am co-first author, \* implies that I am the corresponding author.
 ### 2023
+  * (FSE 2023) Bozhi Wu, **Shangqing Liu\***, Yang Xiao, Zhiming Li, Jun Sun, Shang-Wei Lin. **Learning Program Semantics for Vulnerability Detection via Vulnerability-specific Inter-procedural Slicing.** In Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering.
   * (ASE 2023) Ze Tang, Jidong Ge\*, **Shangqing Liu\***, Tingwei Zhu, Tongtong Xu, Liguo Huang, Bin Luo. **Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases.** In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering.
   * (ASE 2023) Jian Zhang, **Shangqing Liu\***, Xu Wang, Tianlin Li, Yang Liu. **Learning to Locate and Describe Vulnerabilities.** In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering.
   * (ACL 2023) Yanzhou Li, **Shangqing Liu\***, Kangjie Chen, Xiaofei Xie, Tianwei Zhang, Yang Liu. **Multi-target Backdoor Attacks for Code Pre-trained Models.** In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics.
