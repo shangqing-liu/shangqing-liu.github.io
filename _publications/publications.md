@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that I am co-first author, \* implies that I am the corresponding author.
 
 ### 2024
-  * (ICSE 2024) Qi Guo, Junming Cao, Xiaofei Xie, **Shangqing Liu\***, Xiaohong Li\*, Bihuan Chen, Xin Peng. **Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study** In Proceedings of the 46th International Conference on Software Engineering.
+  * (ICSE 2024) Qi Guo, Junming Cao, Xiaofei Xie, **Shangqing Liu\***, Xiaohong Li\*, Bihuan Chen, Xin Peng. **Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study.** In Proceedings of the 46th International Conference on Software Engineering.
 
 ### 2023
   * (FSE 2023) Bozhi Wu, **Shangqing Liu\***, Yang Xiao, Zhiming Li, Jun Sun, Shang-Wei Lin. **Learning Program Semantics for Vulnerability Detection via Vulnerability-specific Inter-procedural Slicing.** In Proceedings of the ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering.
