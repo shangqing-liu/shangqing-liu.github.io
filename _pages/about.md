@@ -14,7 +14,7 @@ I am a research fellow at Cyber Security Lab (CSL), Nanyang Technological Univer
 <strong>Program Semantics Comprehension</strong>. We aim at learning program semantics with deep learning techniques. We conduct a broad research to explore learning program semantics with different program structures. An empirical study is conducted to illustrate different program structures for learning program semantics (SANER 2022). We also employ GNNs to learn program semantics for various software engineering tasks such as software vulnerability detection (NeurIPS 2019, FSE 2023), source code summarization (ICLR 2021), deep code search (TSE 2022). A transformer-based model is also designed for repairing program compilation errors (ASE 2022). 
 
 <strong>Code Pre-trained Models</strong>. We conduct a broad research to design and analyze code pre-trained models. We design several probing tasks to
-analyze code pre-trained models in learning syntax and semantics. We propose to enhance the robustness of code pre-trained models by contrastive learning (ICSE 2023). A backdoor code model is also proposed to attack code pre-trained models (ACL 2023). We propose a retrieval-based approach to enhanced LLMs (ASE 2023 <span style="color:red">*Distinguished Paper Award*</span>). We also conduct some studies to integret ChatGPT in SE for example an empirical study to compare ChatGPT with code pre-trained models for code refinement (ICSE 2024).
+analyze code pre-trained models in learning syntax and semantics. We propose to enhance the robustness of code pre-trained models by contrastive learning (ICSE 2023). Some attack approaches are also proposed to attack code pre-trained models(ACL 2023, EMNLP 2023). In addition, we propose a retrieval-based approach to enhanced LLMs (ASE 2023 <span style="color:red">*Distinguished Paper Award*</span>). Furthermore, we conduct some studies to integret ChatGPT in SE for example an empirical study to compare ChatGPT with code pre-trained models for code refinement (ICSE 2024).
 
 
 <strong>Software Repository Mining</strong>. We design several tools for commits to facilitate software engineering development such as commit message generation (TSE 2020), security patch identification (TOSEM 2021, TDSC 2022). We also train a large-scale pre-trained model CommitBART to support commit-related classification tasks and generation tasks. 
@@ -23,6 +23,7 @@ analyze code pre-trained models in learning syntax and semantics. We propose to 
 
 News
 ======
+*  (10/2023) Our paper “A Black-Box Attack on Code Models via Representation Nearest Neighbor Search” is accepted by Findings of EMNLP23.
 *  (09/2023) Our paper “Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases” won ACM SIGSOFT Distinguished Paper Award (ASE23).
 *  (08/2023) Our paper "Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study" is accepted by ICSE24.
 *  (07/2023) Our paper "Learning Program Semantics for Vulnerability Detection via Vulnerability-specific Inter-procedural Slicing" is accepted by ESEC/FSE23.
