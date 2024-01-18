@@ -23,7 +23,7 @@ analyze code pre-trained models in learning syntax and semantics. We propose to 
 
 News
 ======
-*  (1/2024) Our paper “BadEdit: Backdooring Large Language Models by Model Editing” is accepted by ICLR24.
+*  (01/2024) Our paper “BadEdit: Backdooring Large Language Models by Model Editing” is accepted by ICLR24.
 *  (10/2023) Our paper “A Black-Box Attack on Code Models via Representation Nearest Neighbor Search” is accepted by Findings of EMNLP23.
 *  (09/2023) Our paper “Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases” won ACM SIGSOFT Distinguished Paper Award (ASE23).
 *  (08/2023) Our paper "Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study" is accepted by ICSE24.
