@@ -23,6 +23,7 @@ analyze code pre-trained models in learning syntax and semantics. We propose to 
 
 News
 ======
+*  (03/2024) Our paper “FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion” is accepted by ISSTA24.
 *  (01/2024) Our paper “BadEdit: Backdooring Large Language Models by Model Editing” is accepted by ICLR24.
 *  (10/2023) Our paper “A Black-Box Attack on Code Models via Representation Nearest Neighbor Search” is accepted by Findings of EMNLP23.
 *  (09/2023) Our paper “Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases” won ACM SIGSOFT Distinguished Paper Award (ASE23).
