@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that I am co-first author, \* implies that I am the corresponding author.
 
 ### 2024
-  <!-- * (ISSTA 2024) Qi Guo, **Shangqing Liu\***, Xiaofei Xie, Ze Tang, Ruitao Feng, Junjie Wang, Xiaohong Li, Jidong Ge, Lei Bu. **FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion.** In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA). -->
+  * (ISSTA 2024) Qi Guo, Xiaohong Li, Xiaofei Xie, **Shangqing Liu\***, Ze Tang, Ruitao Feng, Junjie Wang, Jidong Ge, Lei Bu. **FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion.** In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA).
   * (ICLR 2024) Yanzhou Li, Kangjie Chen, Tianlin Li, Jian Zhang, **Shangqing Liu**, Wenhan Wang, Tianwei Zhang, Yang Liu. **BadEdit: Backdooring Large Language Models by Model Editing.** In Proceedings of the Twelfth International Conference on Learning Representations.
   * (ICSE 2024) Qi Guo, Junming Cao, Xiaofei Xie, **Shangqing Liu\***, Xiaohong Li\*, Bihuan Chen, Xin Peng. **Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study.** In Proceedings of the 46th International Conference on Software Engineering.
 
