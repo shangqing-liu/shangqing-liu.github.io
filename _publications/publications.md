@@ -9,8 +9,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ### 2024
   * (TOSEM) Wei Ma, **Shangqing Liu\***, Mengjie Zhao, Xiaofei Xie, Qiang Hu, Jie Zhang, Wenhan Wang, Yang Liu. **Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities.** In ACM Transactions on Software Engineering and Methodology.
-  * (LCTES 2024) **Shangqing Liu**, Wei Ma, Jian Wang, Xiaofei Xie, Ruitao Feng, Yang Liu. **Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation.** In Proceedings of the ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES).
-  * (ISSTA 2024) Qi Guo, Xiaohong Li, Xiaofei Xie, **Shangqing Liu\***, Ze Tang, Ruitao Feng, Junjie Wang, Jidong Ge, Lei Bu. **FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion.** In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA).
+  * (LCTES 2024) **Shangqing Liu**, Wei Ma, Jian Wang, Xiaofei Xie, Ruitao Feng, Yang Liu. **Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation.** In Proceedings of the ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems.
+  * (ISSTA 2024) Qi Guo, Xiaohong Li, Xiaofei Xie, **Shangqing Liu\***, Ze Tang, Ruitao Feng, Junjie Wang, Jidong Ge, Lei Bu. **FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion.** In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis.
   * (ICLR 2024) Yanzhou Li, Kangjie Chen, Tianlin Li, Jian Zhang, **Shangqing Liu**, Wenhan Wang, Tianwei Zhang, Yang Liu. **BadEdit: Backdooring Large Language Models by Model Editing.** In Proceedings of the Twelfth International Conference on Learning Representations.
   * (ICSE 2024) Qi Guo, Junming Cao, Xiaofei Xie, **Shangqing Liu\***, Xiaohong Li\*, Bihuan Chen, Xin Peng. **Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study.** In Proceedings of the 46th International Conference on Software Engineering.
 
