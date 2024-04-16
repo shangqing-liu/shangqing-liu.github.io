@@ -14,7 +14,7 @@ I am a research fellow at Cyber Security Lab (CSL), Nanyang Technological Univer
 <strong>Program Semantics Comprehension</strong>. We aim at learning program semantics with different deep learning techniques. We conduct a broad research to explore learning program semantics with different program structures. An empirical study is conducted to explore different program structures for learning program semantics (SANER 2022). We employ different GNN variants to learn program semantics for various software engineering tasks such as software vulnerability detection (NeurIPS 2019, FSE 2023), source code summarization (ICLR 2021), deep code search (TSE 2022). A transformer-based model is designed for repairing program compilation errors (ASE 2022). 
 
 <strong>Code Pre-trained Models</strong>. We conduct a broad research to design and analyze code pre-trained models. We design several probing tasks to
-analyze code pre-trained models in learning syntax and semantics. We propose to enhance the robustness of code pre-trained models by contrastive learning (ICSE 2023). Some attack approaches are proposed to attack code pre-trained models(ACL 2023, EMNLP 2023). In addition, we propose some retrieval-based approaches to enhanced code pre-trained models (ASE 2023 <span style="color:red">*Distinguished Paper Award*</span>, ISSTA 2024). We also expore some studies to integret ChatGPT in SE for example an empirical study to compare ChatGPT with code pre-trained models for code refinement (ICSE 2024).
+analyze code pre-trained models in learning syntax and semantics (TOSEM 2024). We propose to enhance the robustness of code pre-trained models by contrastive learning (ICSE 2023). Some attack approaches are proposed to attack code pre-trained models(ACL 2023, EMNLP 2023). In addition, we propose some retrieval-based approaches to enhanced code pre-trained models (ASE 2023 <span style="color:red">*Distinguished Paper Award*</span>, ISSTA 2024). We also expore some studies to integret ChatGPT in SE for example an empirical study to compare ChatGPT with code pre-trained models for code refinement (ICSE 2024).
 
 
 <strong>Software Repository Mining</strong>. We design several tools for GitHub commits to facilitate SE development such as commit message generation (TSE 2020), security patch identification (TOSEM 2021, TDSC 2022). We propose a large-scale pre-trained model CommitBART to support commit-related classification and generation tasks. 
@@ -23,6 +23,7 @@ analyze code pre-trained models in learning syntax and semantics. We propose to 
 
 News
 ======
+*  (04/2024) Our paper “Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities” is accepted by TOSEM.
 *  (04/2024) Our paper “Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation” is accepted by LCTES24.
 *  (03/2024) Our paper “FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion” is accepted by ISSTA24.
 *  (01/2024) Our paper “BadEdit: Backdooring Large Language Models by Model Editing” is accepted by ICLR24.
