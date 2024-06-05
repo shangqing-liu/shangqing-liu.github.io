@@ -17,7 +17,7 @@ I am a research fellow at Cyber Security Lab (CSL), Nanyang Technological Univer
 analyze code pre-trained models in learning syntax and semantics (TOSEM 2024). We propose to enhance the robustness of code pre-trained models by contrastive learning (ICSE 2023). Some attack approaches are proposed to attack code pre-trained models(ACL 2023, EMNLP 2023). In addition, we propose some retrieval-based approaches to enhanced code pre-trained models (ASE 2023 <span style="color:red">*Distinguished Paper Award*</span>, ISSTA 2024). We also expore some studies to integret ChatGPT in SE for example an empirical study to compare ChatGPT with code pre-trained models for code refinement (ICSE 2024).
 
 
-<strong>Software Repository Mining</strong>. We design several tools for GitHub commits to facilitate SE development such as commit message generation (TSE 2020), security patch identification (TOSEM 2021, TDSC 2022). We propose a large-scale pre-trained model CommitBART to support commit-related classification and generation tasks. 
+<strong>Software Repository Mining</strong>. We design several tools for GitHub commits to facilitate SE development such as commit message generation (TSE 2020), security patch identification (TOSEM 2021, TDSC 2022). We propose a large-scale pre-trained model CommitBART (TOSEM 2024) to support commit-related classification and generation tasks. 
 
 
 
