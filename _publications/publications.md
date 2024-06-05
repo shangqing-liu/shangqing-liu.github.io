@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that I am co-first author, \* implies that I am the corresponding author.
 
 ### 2024
+  * (TOSEM) **Shangqing Liu**, Yanzhou Li, Xiaofei Xie, Wei Ma, Guozhu Meng, Yang Liu. **Automated Commit Intelligence by Pre-training.** In ACM Transactions on Software Engineering and Methodology.
   * (TOSEM) Wei Ma, **Shangqing Liu\***, Mengjie Zhao, Xiaofei Xie, Qiang Hu, Jie Zhang, Wenhan Wang, Yang Liu. **Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities.** In ACM Transactions on Software Engineering and Methodology.
   * (LCTES 2024) **Shangqing Liu**, Wei Ma, Jian Wang, Xiaofei Xie, Ruitao Feng, Yang Liu. **Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation.** In Proceedings of the ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems.
   * (ISSTA 2024) Qi Guo, Xiaohong Li, Xiaofei Xie, **Shangqing Liu\***, Ze Tang, Ruitao Feng, Junjie Wang, Jidong Ge, Lei Bu. **FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion.** In Proceedings of the ACM SIGSOFT International Symposium on Software Testing and Analysis.

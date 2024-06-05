@@ -23,6 +23,7 @@ analyze code pre-trained models in learning syntax and semantics (TOSEM 2024). W
 
 News
 ======
+*  (06/2024) Our paper “Automated Commit Intelligence by Pre-training” is accepted by TOSEM.
 *  (04/2024) Our paper “Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities” is accepted by TOSEM.
 *  (04/2024) Our paper “Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation” is accepted by LCTES24.
 *  (03/2024) Our paper “FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion” is accepted by ISSTA24.
