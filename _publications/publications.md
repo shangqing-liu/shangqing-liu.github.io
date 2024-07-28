@@ -6,8 +6,12 @@ author_profile: true
 ---
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that I am co-first author, \* implies that I am the corresponding author.
+### 2025
+  * (ICSE 2025) Wei Ma, Daoyuan Wu, Yuqiang Sun, Tianwen Wang, **Shangqing Liu**, Jian Zhang, Yue Xue, Yang Liu. **Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications.** In Proceedings of the 47th International Conference on Software Engineering.
+
 
 ### 2024
+  * (ISSRE 2024) Jian Wang, **Shangqing Liu\***, Xiaofei Xie, Jingkai Siow, Kui Liu, Yi Li. **RATCHET: Retrieval Augmented Transformer for Program Repair.** In Proceedings of the 35th IEEE International Symposium on Software Reliability Engineering.
   * (TOSEM) **Shangqing Liu**, Yanzhou Li, Xiaofei Xie, Wei Ma, Guozhu Meng, Yang Liu. **Automated Commit Intelligence by Pre-training.** In ACM Transactions on Software Engineering and Methodology.
   * (TOSEM) Wei Ma, **Shangqing Liu\***, Mengjie Zhao, Xiaofei Xie, Qiang Hu, Jie Zhang, Wenhan Wang, Yang Liu. **Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities.** In ACM Transactions on Software Engineering and Methodology.
   * (LCTES 2024) **Shangqing Liu**, Wei Ma, Jian Wang, Xiaofei Xie, Ruitao Feng, Yang Liu. **Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation.** In Proceedings of the ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems.

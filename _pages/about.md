@@ -23,6 +23,8 @@ analyze code pre-trained models in learning syntax and semantics (TOSEM 2024). W
 
 News
 ======
+*  (07/2024) Our paper “RATCHET: Retrieval Augmented Transformer for Program Repair” is accepted by ISSRE24.
+*  (07/2024) Our paper “Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications” is accepted by ICSE25.
 *  (06/2024) Our paper “Automated Commit Intelligence by Pre-training” is accepted by TOSEM.
 *  (04/2024) Our paper “Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities” is accepted by TOSEM.
 *  (04/2024) Our paper “Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation” is accepted by LCTES24.
