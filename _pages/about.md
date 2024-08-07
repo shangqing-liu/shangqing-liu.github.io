@@ -23,6 +23,7 @@ analyze code pre-trained models in learning syntax and semantics (TOSEM 2024). W
 
 News
 ======
+*  (08/2024) Two papers are accepted by ASE24.
 *  (07/2024) Our paper “RATCHET: Retrieval Augmented Transformer for Program Repair” is accepted by ISSRE24.
 *  (07/2024) Our paper “Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications” is accepted by ICSE25.
 *  (06/2024) Our paper “Automated Commit Intelligence by Pre-training” is accepted by TOSEM.
@@ -34,8 +35,7 @@ News
 *  (09/2023) Our paper “Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases” won ACM SIGSOFT Distinguished Paper Award (ASE23).
 *  (08/2023) Our paper "Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study" is accepted by ICSE24.
 *  (07/2023) Our paper "Learning Program Semantics for Vulnerability Detection via Vulnerability-specific Inter-procedural Slicing" is accepted by ESEC/FSE23.
-*  (07/2023) Our paper "Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases" is accepted by ASE23.
-*  (07/2023) Our paper "Learning to Locate and Describe Vulnerabilities" is accepted by ASE23.
+*  (07/2023) Two papers are accepted by ASE23.
 *  (05/2023) Our paper "Multi-target Backdoor Attacks for Code Pre-trained Models" is accepted by ACL23.
 *  (12/2022) Our paper "GraphSearchNet: Enhancing GNNs via Capturing Global Dependencies for Semantic Code Search" is accepted by TSE.
 *  (12/2022) Our paper "Learning Program Representations with a Tree-Structured Transformer" is accepted by SANER23.
