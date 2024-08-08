@@ -11,8 +11,8 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 ### 2024
-  * (ASE 2024) Xueyang Li, Guozhu Meng\*, **Shangqing Liu\***, Lu Xiang, Kun Sun, Kai Chen, Xiapu Luo, Yang Liu. **Attribution-guided Adversarial Code Prompt Generation for Code Completion Models.** In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering .
-  * (ASE 2024) Jian Wang, **Shangqing Liu\***, Xiaofei Xie, Yi Li. **An Empirical Study to Evaluate AIGC Detectors on Code Content.** In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering .
+  * (ASE 2024) Xueyang Li, Guozhu Meng\*, **Shangqing Liu\***, Lu Xiang, Kun Sun, Kai Chen, Xiapu Luo, Yang Liu. **Attribution-guided Adversarial Code Prompt Generation for Code Completion Models.** In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering.
+  * (ASE 2024) Jian Wang, **Shangqing Liu\***, Xiaofei Xie, Yi Li. **An Empirical Study to Evaluate AIGC Detectors on Code Content.** In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering.
   * (ISSRE 2024) Jian Wang, **Shangqing Liu\***, Xiaofei Xie, Jingkai Siow, Kui Liu, Yi Li. **RATCHET: Retrieval Augmented Transformer for Program Repair.** In Proceedings of the 35th IEEE International Symposium on Software Reliability Engineering.
   * (TOSEM) **Shangqing Liu**, Yanzhou Li, Xiaofei Xie, Wei Ma, Guozhu Meng, Yang Liu. **Automated Commit Intelligence by Pre-training.** In ACM Transactions on Software Engineering and Methodology.
   * (TOSEM) Wei Ma, **Shangqing Liu\***, Mengjie Zhao, Xiaofei Xie, Qiang Hu, Jie Zhang, Wenhan Wang, Yang Liu. **Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities.** In ACM Transactions on Software Engineering and Methodology.
