@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research fellow at Cyber Security Lab (CSL), Nanyang Technological University (NTU), Singapore and my Ph.D study is supervised by [Prof.Yang Liu](https://personal.ntu.edu.sg/yangliu/) at NTU (2019-2022). Before that, I was a research assistant at CSL. My research focuses on employing deep learning techniques to assist software engineering as follows:
+I am a research fellow at Cyber Security Lab (CSL), Nanyang Technological University (NTU), Singapore and my Ph.D study is supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) at NTU (2019-2022). Before that, I was a research assistant at CSL. My research focuses on employing deep learning techniques to assist software engineering as follows:
 
 
 <strong>Program Semantics Comprehension</strong>. We aim at learning program semantics with different deep learning techniques. We conduct a broad research to explore learning program semantics with different program structures. An empirical study is conducted to explore different program structures for learning program semantics (SANER 2022). We employ different GNN variants to learn program semantics for various software engineering tasks such as software vulnerability detection (NeurIPS 2019, FSE 2023, LCTES 2024), source code summarization (ICLR 2021), deep code search (TSE 2022). Transformer-based models are proposed for repairing program errors (ASE 2022, ISSRE 2024). 
