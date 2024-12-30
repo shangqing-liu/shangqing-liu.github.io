@@ -8,7 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a research fellow at Cyber Security Lab (CSL), Nanyang Technological University (NTU), Singapore and my Ph.D study is supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) at NTU (2019-2022). Before that, I was a research assistant at CSL. My research focuses on employing deep learning techniques to assist software engineering as follows:
+
+I am an associate professor in the Software Engineering Group lead by [Prof. Xuandong Li](https://cs.nju.edu.cn/lixuandong/) and [Prof. Lei Bu](https://cs.nju.edu.cn/bulei/) at Nanjing University. I received my Ph.D degree at Nanyang Technological University supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). My Post-doc research was also conducted at NTU supervised by Prof. Liu. My research lies in intelligent software enginnering including AI-based software vulnerability detection and repair (NeurIPS 2019, ASE 2022, FSE 2023), intelligent programming assistant (ICLR2021, ICSE 2023, ASE 2023, ISSTA 2024, TOSEM 2024) and code model understanding (ACL 2023, TOSEM 2024, ICSE 2024, ASE 2024).
+
+
+
+
+<strong>I am looking for motivated master and Ph.D students. Please send me an email with your CV if you are interested. 
+</strong>
+
+
+
+<!-- I am a research fellow at Cyber Security Lab (CSL), Nanyang Technological University (NTU), Singapore and my Ph.D study is supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) at NTU (2019-2022). Before that, I was a research assistant at CSL. My research focuses on employing deep learning techniques to assist software engineering as follows:
 
 
 <strong>Program Semantics Comprehension</strong>. We aim at learning program semantics with different deep learning techniques. We conduct a broad research to explore learning program semantics with different program structures. An empirical study is conducted to explore different program structures for learning program semantics (SANER 2022). We employ different GNN variants to learn program semantics for various software engineering tasks such as software vulnerability detection (NeurIPS 2019, FSE 2023, LCTES 2024), source code summarization (ICLR 2021), deep code search (TSE 2022). Transformer-based models are proposed for repairing program errors (ASE 2022, ISSRE 2024). 
@@ -17,14 +28,14 @@ I am a research fellow at Cyber Security Lab (CSL), Nanyang Technological Univer
 analyze code pre-trained models in learning syntax and semantics (TOSEM 2024). We propose to enhance the robustness of code pre-trained models by contrastive learning (ICSE 2023). Some attack approaches are proposed to attack code pre-trained models(ACL 2023, EMNLP 2023). In addition, we propose some retrieval-based approaches to enhanced code pre-trained models (ASE 2023 <span style="color:red">*Distinguished Paper Award*</span>, ISSTA 2024). We also expore some studies to integret LLMs in SE for example an empirical study to compare ChatGPT with code pre-trained models for code refinement (ICSE 2024).
 
 
-<strong>Software Repository Mining</strong>. We design several tools for GitHub commits to facilitate SE development such as commit message generation (TSE 2020), security patch identification (TOSEM 2021, TDSC 2022). We propose a large-scale pre-trained model CommitBART (TOSEM 2024) to support commit-related classification and generation tasks. 
+<strong>Software Repository Mining</strong>. We design several tools for GitHub commits to facilitate SE development such as commit message generation (TSE 2020), security patch identification (TOSEM 2021, TDSC 2022). We propose a large-scale pre-trained model CommitBART (TOSEM 2024) to support commit-related classification and generation tasks. --> 
 
 
 
 News
 ======
 *  (10/2024) Our paper “SpecGen: Automated Generation of Formal Program Specifications via Large Language Models” is accepted by ICSE25.
-*  (08/2024) Congrats to my wife [Prof. Han](https://radio.seu.edu.cn/2023/1025/c19938a469679/page.htm) at SouthEast University for receiving the National Science Foundation of China for Excellent Young Scholars (国家优青). Welcome collaboration!
+*  (08/2024) Congrats to my dear wife [Prof. Han](https://radio.seu.edu.cn/2023/1025/c19938a469679/page.htm) at SouthEast University for receiving the National Science Foundation of China for Excellent Young Scholars (国家优青). Welcome collaboration!
 *  (08/2024) Two papers are accepted by ASE24.
 *  (07/2024) Our paper “RATCHET: Retrieval Augmented Transformer for Program Repair” is accepted by ISSRE24.
 *  (07/2024) Our paper “Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications” is accepted by ICSE25.
