@@ -42,7 +42,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
  
 ### 2021
   * (TOSEM) Yaqin Zhou, Jingkai Siow, Chenyu Wang, **Shangqing Liu**, Yang Liu. **SPI: Automated Identification of Security Patches via Commits.** In ACM Transactions on Software Engineering and Methodology.
-  * (ICLR 2021) **Shangqing Liu**, Yu Chen, Xiaofei Xie, Jingkai Siow and Yang Liu. **Retrieval-Augmented Generation for Code Summarization via Hybrid GNN.** In Proceedings of the 9th International Conference on Learning Representations (spotlight).
+  * (ICLR 2021) **Shangqing Liu**, Yu Chen, Xiaofei Xie, Jingkai Siow and Yang Liu. **Retrieval-Augmented Generation for Code Summarization via Hybrid GNN.** In Proceedings of the 9th International Conference on Learning Representations. <span style="color:red">*Spotlight*</span>
 
 
 ### 2020
