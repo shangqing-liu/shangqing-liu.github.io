@@ -34,7 +34,7 @@ analyze code pre-trained models in learning syntax and semantics (TOSEM 2024). W
 
 News
 ======
-*  (1/2025) Our paper “Intention is All You Need: Refining Your Code from Your Intention” is accepted by ICSE25.
+*  (01/2025) Our paper “Intention is All You Need: Refining Your Code from Your Intention” is accepted by ICSE25.
 *  (10/2024) Our paper “SpecGen: Automated Generation of Formal Program Specifications via Large Language Models” is accepted by ICSE25.
 *  (08/2024) Congrats to my dear wife [Prof. Han](https://radio.seu.edu.cn/2023/1025/c19938a469679/page.htm) at SouthEast University for receiving the National Science Foundation of China for Excellent Young Scholars (国家优青).  
 *  (08/2024) Two papers are accepted by ASE24.
@@ -61,7 +61,7 @@ News
 *  (03/2022) Join NeurIPS 2022 as reviewers.
 *  (01/2022) Join ICML 2022 as reviewers.
 *  (12/2021）Our paper "Learning Program Semantics with Code Representations: An Empirical Study" is accepted by SANER 2022.
-*  (6/2021) Join ICLR 2022 as reviewers.
-*  (5/2021) Our paper "SPI: Automated Identification of Security Patches via Commits" is accepted by TOSEM.
-*  (4/2021) Join NeurIPS 2021 as reviewers.
-*  (1/2021) Our paper "Retrieval-Augmented Generation for Code Summarization via Hybrid GNN” is accepted by ICLR 2021 (spotlight).
+*  (06/2021) Join ICLR 2022 as reviewers.
+*  (05/2021) Our paper "SPI: Automated Identification of Security Patches via Commits" is accepted by TOSEM.
+*  (04/2021) Join NeurIPS 2021 as reviewers.
+*  (01/2021) Our paper "Retrieval-Augmented Generation for Code Summarization via Hybrid GNN” is accepted by ICLR 2021 (spotlight).
