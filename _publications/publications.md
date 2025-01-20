@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that I am co-first author, \* implies that I am the corresponding author.
 ### 2025
-  * (ICSE 2025) Qi Guo, Xiaofei Xie, **Shangqing Liu\***, Ming Hu, **Xiaohong Li\***, Lei Bu. **Intention is All You Need: Refining Your Code from Your Intention.** In Proceedings of the 47th International Conference on Software Engineering.
+  * (ICSE 2025) Qi Guo, Xiaofei Xie, **Shangqing Liu\***, Ming Hu, Xiaohong Li\*, Lei Bu. **Intention is All You Need: Refining Your Code from Your Intention.** In Proceedings of the 47th International Conference on Software Engineering.
   * (ICSE 2025) Lezhi Ma, **Shangqing Liu\***, Yi Li, Xiaofei Xie, Lei Bu\*. **SpecGen: Automated Generation of Formal Program Specifications via Large Language Models.** In Proceedings of the 47th International Conference on Software Engineering.
   * (ICSE 2025) Wei Ma, Daoyuan Wu, Yuqiang Sun, Tianwen Wang, **Shangqing Liu**, Jian Zhang, Yue Xue, Yang Liu. **Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications.** In Proceedings of the 47th International Conference on Software Engineering.
 
