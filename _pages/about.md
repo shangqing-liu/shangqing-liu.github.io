@@ -36,7 +36,7 @@ News
 ======
 *  (1/2025) Our paper “Intention is All You Need: Refining Your Code from Your Intention” is accepted by ICSE25.
 *  (10/2024) Our paper “SpecGen: Automated Generation of Formal Program Specifications via Large Language Models” is accepted by ICSE25.
-*  (08/2024) Congrats to my dear wife [Prof. Han](https://radio.seu.edu.cn/2023/1025/c19938a469679/page.htm) at SouthEast University for receiving the National Science Foundation of China for Excellent Young Scholars (国家优青). Welcome collaboration!
+*  (08/2024) Congrats to my dear wife [Prof. Han](https://radio.seu.edu.cn/2023/1025/c19938a469679/page.htm) at SouthEast University for receiving the National Science Foundation of China for Excellent Young Scholars (国家优青). 
 *  (08/2024) Two papers are accepted by ASE24.
 *  (07/2024) Our paper “RATCHET: Retrieval Augmented Transformer for Program Repair” is accepted by ISSRE24.
 *  (07/2024) Our paper “Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications” is accepted by ICSE25.
