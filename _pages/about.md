@@ -1,67 +1,49 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-I am an associate professor in the Software Engineering Group lead by [Prof. Xuandong Li](https://cs.nju.edu.cn/lixuandong/) at Nanjing University. I received my Ph.D degree at Nanyang Technological University supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). My post-doc research also finished at NTU supervised by Prof. Liu (2023-2024). My research mainly lies in intelligent software engineering including but not limited to AI-based software vulnerability detection and repair (NeurIPS19, ASE22, FSE23), intelligent programming assistant (ICLR21, ICSE23, ASE23, ISSTA24, TOSEM24) and code model analysis (ACL23, TOSEM24, ICSE24, ASE24).
-
-
-
-
-<strong>I am looking for motivated master and Ph.D students. Please send me an email with your CV if you are interested. 
-</strong>
-
-
-
-<!-- I am a research fellow at Cyber Security Lab (CSL), Nanyang Technological University (NTU), Singapore and my Ph.D study is supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/) at NTU (2019-2022). Before that, I was a research assistant at CSL. My research focuses on employing deep learning techniques to assist software engineering as follows:
-
-
-<strong>Program Semantics Comprehension</strong>. We aim at learning program semantics with different deep learning techniques. We conduct a broad research to explore learning program semantics with different program structures. An empirical study is conducted to explore different program structures for learning program semantics (SANER 2022). We employ different GNN variants to learn program semantics for various software engineering tasks such as software vulnerability detection (NeurIPS 2019, FSE 2023, LCTES 2024), source code summarization (ICLR 2021), deep code search (TSE 2022). Transformer-based models are proposed for repairing program errors (ASE 2022, ISSRE 2024). 
-
-<strong>Code Pre-trained Models</strong>. We conduct a broad research to design and analyze code pre-trained models. We design several probing tasks to
-analyze code pre-trained models in learning syntax and semantics (TOSEM 2024). We propose to enhance the robustness of code pre-trained models by contrastive learning (ICSE 2023). Some attack approaches are proposed to attack code pre-trained models(ACL 2023, EMNLP 2023). In addition, we propose some retrieval-based approaches to enhanced code pre-trained models (ASE 2023 <span style="color:red">*Distinguished Paper Award*</span>, ISSTA 2024). We also expore some studies to integret LLMs in SE for example an empirical study to compare ChatGPT with code pre-trained models for code refinement (ICSE 2024).
-
-
-<strong>Software Repository Mining</strong>. We design several tools for GitHub commits to facilitate SE development such as commit message generation (TSE 2020), security patch identification (TOSEM 2021, TDSC 2022). We propose a large-scale pre-trained model CommitBART (TOSEM 2024) to support commit-related classification and generation tasks. --> 
-
-
-
-News
+A data-driven personal website
 ======
-*  (1/2025) Our paper “Intention is All You Need: Refining Your Code from Your Intention” is accepted by ICSE25.
-*  (10/2024) Our paper “SpecGen: Automated Generation of Formal Program Specifications via Large Language Models” is accepted by ICSE25.
-*  (08/2024) Congrats to my dear wife [Prof. Han](https://radio.seu.edu.cn/2023/1025/c19938a469679/page.htm) at SouthEast University for receiving the National Science Foundation of China for Excellent Young Scholars (国家优青).  
-*  (08/2024) Two papers are accepted by ASE24.
-*  (07/2024) Our paper “RATCHET: Retrieval Augmented Transformer for Program Repair” is accepted by ISSRE24.
-*  (07/2024) Our paper “Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications” is accepted by ICSE25.
-*  (06/2024) Our paper “Automated Commit Intelligence by Pre-training” is accepted by TOSEM.
-*  (04/2024) Our paper “Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities” is accepted by TOSEM.
-*  (04/2024) Our paper “Enhancing Code Vulnerability Detection via Vulnerability-Preserving Data Augmentation” is accepted by LCTES24.
-*  (03/2024) Our paper “FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion” is accepted by ISSTA24.
-*  (01/2024) Our paper “BadEdit: Backdooring Large Language Models by Model Editing” is accepted by ICLR24.
-*  (10/2023) Our paper “A Black-Box Attack on Code Models via Representation Nearest Neighbor Search” is accepted by Findings of EMNLP23.
-*  (09/2023) Our paper “Domain Adaptive Code Completion via Language Models and Decoupled Domain Databases” won ACM SIGSOFT Distinguished Paper Award (ASE23).
-*  (08/2023) Our paper "Exploring the Potential of ChatGPT in Automated Code Refinement: An Empirical Study" is accepted by ICSE24.
-*  (07/2023) Our paper "Learning Program Semantics for Vulnerability Detection via Vulnerability-specific Inter-procedural Slicing" is accepted by ESEC/FSE23.
-*  (07/2023) Two papers are accepted by ASE23.
-*  (05/2023) Our paper "Multi-target Backdoor Attacks for Code Pre-trained Models" is accepted by ACL23.
-*  (12/2022) Our paper "GraphSearchNet: Enhancing GNNs via Capturing Global Dependencies for Semantic Code Search" is accepted by TSE.
-*  (12/2022) Our paper "Learning Program Representations with a Tree-Structured Transformer" is accepted by SANER23.
-*  (12/2022) Our paper "ContraBERT: Enhancing Code Pre-trained Models via Contrastive Learning" is accepted by ICSE23.
-*  (08/2022) Our paper "TransRepair: Context-aware Program Repair for Compilation Errors” is accepted by ASE22.
-*  (08/2022) Join ICLR 2023, AAAI 2023 as reviewers.
-*  (07/2022) Our paper "Enhancing Security Patch Identification by Capturing Structures in Commits” is accepted by TDSC.
-*  (04/2022) I have submitted my Ph.D thesis "Learning program semantics via exploring program structures with deep learning”.
-*  (03/2022) Join NeurIPS 2022 as reviewers.
-*  (01/2022) Join ICML 2022 as reviewers.
-*  (12/2021）Our paper "Learning Program Semantics with Code Representations: An Empirical Study" is accepted by SANER 2022.
-*  (6/2021) Join ICLR 2022 as reviewers.
-*  (5/2021) Our paper "SPI: Automated Identification of Security Patches via Commits" is accepted by TOSEM.
-*  (4/2021) Join NeurIPS 2021 as reviewers.
-*  (1/2021) Our paper "Retrieval-Augmented Generation for Code Summarization via Hybrid GNN” is accepted by ICLR 2021 (spotlight).
+Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
+Getting started
+======
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
+
+Site-wide configuration
+------
+The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
+Create content & metadata
+------
+For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+
+**Markdown generator**
+
+The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
+) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+
+How to edit your site's GitHub repository
+------
+Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
+
+For more info
+------
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
