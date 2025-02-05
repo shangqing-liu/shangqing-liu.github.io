@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an associate professor in the Software Engineering Group lead by [Prof. Xuandong Li](https://cs.nju.edu.cn/lixuandong/) at Nanjing University. I received my Ph.D degree at Nanyang Technological University supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). My post-doc research also finished at NTU supervised by Prof. Liu (2023-2024). My research mainly lies in intelligent software engineering including but not limited to AI-based software vulnerability detection and repair (NeurIPS19, ASE22, FSE23), intelligent programming assistant (ICLR21, ICSE23, ASE23, ISSTA24, TOSEM24) and code model analysis (ACL23, TOSEM24, ICSE24, ASE24).
+I am an associate professor in the Software Engineering Group lead by [Prof. Xuandong Li](https://cs.nju.edu.cn/lixuandong/) at Nanjing University. I received my Ph.D degree at Nanyang Technological University supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). My post-doc research also finished at NTU supervised by Prof. Liu (2023-2024). My research mainly lies in intelligent software engineering including but not limited to AI-based software vulnerability detection and repair (NeurIPS19, ASE22, FSE23, TOSEM25), intelligent programming assistant (ICLR21, ICSE23, ASE23, ISSTA24, TOSEM24) and code model analysis (ACL23, TOSEM24, ICSE24, ASE24).
 
 
 
