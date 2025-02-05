@@ -34,6 +34,7 @@ analyze code pre-trained models in learning syntax and semantics (TOSEM 2024). W
 
 News
 ======
+*  (02/2025) Our paper “ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs” is accepted by TOSEM.
 *  (01/2025) Our paper “Intention is All You Need: Refining Your Code from Your Intention” is accepted by ICSE25.
 *  (10/2024) Our paper “SpecGen: Automated Generation of Formal Program Specifications via Large Language Models” is accepted by ICSE25.
 *  (08/2024) Congrats to my dear wife [Prof. Han](https://radio.seu.edu.cn/2023/1025/c19938a469679/page.htm) at SouthEast University for receiving the National Science Foundation of China for Excellent Young Scholars (国家优青).  
