@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that the co-first author, \* implies the corresponding author.
 ### 2025
-  * (TOSEM) Jiaolong Kong, Xiaofei Xie\*, **Shangqing Liu\***. **Demystifying Memorization in LLM-based Program Repair via a General Hypothesis Testing Framework.** In Proceedings of the ACM International Conference on the Foundations of Software Engineering.
+  * (FSE 2025) Jiaolong Kong, Xiaofei Xie, **Shangqing Liu\***. **Demystifying Memorization in LLM-based Program Repair via a General Hypothesis Testing Framework.** In Proceedings of the ACM International Conference on the Foundations of Software Engineering.
   * (TOSEM) Jiaolong Kong, Xiaofei Xie\*, Mingfei Chen, **Shangqing Liu\***, Xiaoning Du, Qi Guo. **ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs.** In ACM Transactions on Software Engineering and Methodology.
   * (ICSE 2025) Qi Guo, Xiaofei Xie, **Shangqing Liu\***, Ming Hu, Xiaohong Li\*, Lei Bu. **Intention is All You Need: Refining Your Code from Your Intention.** In Proceedings of the 47th International Conference on Software Engineering.
   * (ICSE 2025) Lezhi Ma, **Shangqing Liu\***, Yi Li, Xiaofei Xie, Lei Bu\*. **SpecGen: Automated Generation of Formal Program Specifications via Large Language Models.** In Proceedings of the 47th International Conference on Software Engineering.
