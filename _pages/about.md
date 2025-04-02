@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an associate professor in the Software Engineering Group lead by [Prof. Xuandong Li](https://cs.nju.edu.cn/lixuandong/) at Nanjing University. I received my Ph.D degree at Nanyang Technological University supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). My post-doc research also finished at NTU supervised by Prof. Liu (2023-2024). My research mainly lies in intelligent software engineering including but not limited to AI-based software vulnerability detection and repair (NeurIPS19, ASE22, FSE23, TOSEM25), intelligent programming assistant (ICLR21, ICSE23, ASE23, ISSTA24, TOSEM24) and code model analysis (ACL23, TOSEM24, ICSE24, ASE24).
+I am an associate professor in the Software Engineering Group lead by [Prof. Xuandong Li](https://cs.nju.edu.cn/lixuandong/) at Nanjing University. I received my Ph.D degree at Nanyang Technological University supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). My post-doc research also finished at NTU supervised by Prof. Liu (2023-2024). My research mainly lies in intelligent software engineering including but not limited to AI-based software vulnerability detection and repair (NeurIPS19, ASE22, FSE23, TOSEM25, FSE25), intelligent programming assistant (ICLR21, ICSE23, ASE23, ISSTA24, TOSEM24, ICSE25) and code model analysis (ACL23, TOSEM24, ICSE24, ASE24).
 
 
 
@@ -34,6 +34,7 @@ analyze code pre-trained models in learning syntax and semantics (TOSEM 2024). W
 
 News
 ======
+*  (04/2025) Our paper “Demystifying Memorization in LLM-based Program Repair via a General Hypothesis Testing Framework” is accepted by FSE25.
 *  (02/2025) Our paper “ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs” is accepted by TOSEM.
 *  (01/2025) Our paper “Intention is All You Need: Refining Your Code from Your Intention” is accepted by ICSE25.
 *  (10/2024) Our paper “SpecGen: Automated Generation of Formal Program Specifications via Large Language Models” is accepted by ICSE25.
