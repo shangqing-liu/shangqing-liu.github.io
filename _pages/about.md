@@ -34,6 +34,7 @@ analyze code pre-trained models in learning syntax and semantics (TOSEM 2024). W
 
 News
 ======
+*  (07/2025) Our paper “Impact-driven Context Filtering For Cross-file Code Completion” is accepted by COLM25.
 *  (06/2025) Our paper “Temporal Specification Oriented Fuzzing for Trigger-Action-Programming Smart Home Integrations” is accepted by ICSE26.
 *  (04/2025) Our paper “Demystifying Memorization in LLM-based Program Repair via a General Hypothesis Testing Framework” is accepted by FSE25.
 *  (02/2025) Our paper “ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs” is accepted by TOSEM.

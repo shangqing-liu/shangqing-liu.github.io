@@ -13,6 +13,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 ### 2025
+  * (COLM 2025) Yanzhou Li, **Shangqing Liu\***, Kangjie Chen, Tianwei Zhang, Yang Liu. **Impact-driven Context Filtering For Cross-file Code Completion.** In Proceedings of second Conference on Language Modeling.
   * (FSE 2025) Jiaolong Kong, Xiaofei Xie\*, **Shangqing Liu\***. **Demystifying Memorization in LLM-based Program Repair via a General Hypothesis Testing Framework.** In Proceedings of the ACM International Conference on the Foundations of Software Engineering.
   * (TOSEM) Jiaolong Kong, Xiaofei Xie\*, Mingfei Chen, **Shangqing Liu\***, Xiaoning Du, Qi Guo. **ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs.** In ACM Transactions on Software Engineering and Methodology.
   * (ICSE 2025) Qi Guo, Xiaofei Xie, **Shangqing Liu\***, Ming Hu, Xiaohong Li\*, Lei Bu. **Intention is All You Need: Refining Your Code from Your Intention.** In Proceedings of the 47th International Conference on Software Engineering.
