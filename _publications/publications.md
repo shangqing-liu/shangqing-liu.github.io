@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 ### 2025
-  * (Findings of EMNLP 2025) Jian Wang, Xiaofei Xie, Qiang Hu, Shangqing Liu, Yi Li. **Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models.** In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing. 
+  * (Findings of EMNLP 2025) Jian Wang, Xiaofei Xie, Qiang Hu, **Shangqing Liu**, Yi Li. **Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models.** In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing. 
   * (ASE 2025) Jian Wang, Xiaofei Xie, Qiang Hu\*, **Shangqing Liu\***, Jiongchi Yu, Jiaolong Kong, Yi Li. **Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs.** In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering.
   * (COLM 2025) Yanzhou Li, **Shangqing Liu\***, Kangjie Chen, Tianwei Zhang, Yang Liu. **Impact-driven Context Filtering For Cross-file Code Completion.** In Proceedings of Conference on Language Modeling.
   * (FSE 2025) Jiaolong Kong, Xiaofei Xie\*, **Shangqing Liu\***. **Demystifying Memorization in LLM-based Program Repair via a General Hypothesis Testing Framework.** In Proceedings of the ACM International Conference on the Foundations of Software Engineering.
