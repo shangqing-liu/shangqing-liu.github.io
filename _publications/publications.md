@@ -13,6 +13,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 ### 2025
+  * (TSE) **Shangqing Liu**, Daya Guo, Jian Zhang, Wei Ma, Yanzhou Li, Yang Liu. **An Empirical Study of Exploring the Capabilities of Large Language Models in Code Learning.** In IEEE Transactions on Software Engineering.
   * (Findings of EMNLP 2025) Jian Wang, Xiaofei Xie, Qiang Hu, **Shangqing Liu**, Yi Li. **Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models.** In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing. 
   * (ASE 2025) Jian Wang, Xiaofei Xie, Qiang Hu\*, **Shangqing Liu\***, Jiongchi Yu, Jiaolong Kong, Yi Li. **Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs.** In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering.
   * (COLM 2025) Yanzhou Li, **Shangqing Liu\***, Kangjie Chen, Tianwei Zhang, Yang Liu. **Impact-driven Context Filtering For Cross-file Code Completion.** In Proceedings of Conference on Language Modeling.
