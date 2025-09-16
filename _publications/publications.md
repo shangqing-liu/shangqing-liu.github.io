@@ -13,7 +13,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 ### 2025
-  * (TIFS) Wei Ma, Junjie Shi, Jiaxi Qiu, Cong Wu, Jing Chen, Lingxiao Jiang, **Shangqing Liu**, Yang Liu, Xiang Yang. **Detecting DeFi Fraud with a Graph-TransformerLanguage Model.** In IEEE Transactions on Information Forensics \& Security.
+  * (TIFS) Wei Ma, Junjie Shi, Jiaxi Qiu, Cong Wu, Jing Chen, Lingxiao Jiang, **Shangqing Liu**, Yang Liu, Xiang Yang. **Detecting DeFi Fraud with a Graph-TransformerLanguage Model.** In IEEE Transactions on Information Forensics & Security.
   * (TSE) **Shangqing Liu**, Daya Guo, Jian Zhang, Wei Ma, Yanzhou Li, Yang Liu. **An Empirical Study of Exploring the Capabilities of Large Language Models in Code Learning.** In IEEE Transactions on Software Engineering.
   * (Findings of EMNLP 2025) Jian Wang, Xiaofei Xie, Qiang Hu, **Shangqing Liu**, Yi Li. **Do Code Semantics Help? A Comprehensive Study on Execution Trace-Based Information for Code Large Language Models.** In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing. 
   * (ASE 2025) Jian Wang, Xiaofei Xie, Qiang Hu\*, **Shangqing Liu\***, Jiongchi Yu, Jiaolong Kong, Yi Li. **Defects4C: Benchmarking Large Language Model Repair Capability with C/C++ Bugs.** In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering.
