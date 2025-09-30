@@ -13,6 +13,7 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 
 ### 2025
+  * (TOSEM) Suwan Li, Lei Bu\*, **Shangqing Liu\***, Guangdong Bai, Fuman Xie, Kai Chen, Chang Yue. **VUI Testing of VPA Apps via Behavior Model-Enhanced LLM Agents.** In ACM Transactions on Software Engineering and Methodology.
   * (ASE 2025) Qian Zhu, Yuxuan Liu, Ziyuan Zhu, **Shangqing Liu**, Lei Bu. **EPSO: A Caching-Based Efficient Superoptimizer for BPF Bytecode.** In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering.
   * (ASE 2025) Xizao Wang, Xiangrong Bin, Lanxin Huang, **Shangqing Liu**, Jianhua Zhao, Lei Bu. **Incremental Program Analysis in the Wild: An Empirical Study on Real-World Program Changes.** In Proceedings of the 40th IEEE/ACM International Conference on Automated Software Engineering.
   * (TIFS) Wei Ma, Junjie Shi, Jiaxi Qiu, Cong Wu, Jing Chen, Lingxiao Jiang, **Shangqing Liu**, Yang Liu, Xiang Yang. **Detecting DeFi Fraud with a Graph-TransformerLanguage Model.** In IEEE Transactions on Information Forensics & Security.
