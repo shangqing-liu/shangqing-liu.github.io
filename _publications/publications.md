@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that the co-first author, \* implies the corresponding author.
 
 ### 2026
+  * (TSE) Suwan Li, Lei Bu, **Shangqing Liu**, Guangdong Bai, Fuman Xie, Kai Chen, Chang Yue. **When Voice Meets Touch: Conflict Analysis in Mobile Applications.** In IEEE Transactions on Software Engineering.
   * (ICSE 2026) Jinglin Dai, Yifan Xiong, Lezhi Ma, **Shangqing Liu\***, Lei Bu\*. **Temporal Specification Oriented Fuzzing for Trigger-Action-Programming Smart Home Integrations.** In Proceedings of the 48th International Conference on Software Engineering.
 
 
