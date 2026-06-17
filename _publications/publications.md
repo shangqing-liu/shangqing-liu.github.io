@@ -8,7 +8,7 @@ author_profile: true
 You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=Rl0-phkAAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"}. Name marked with \# implies that the co-first author, \* implies the corresponding author.
 
 ### 2026
-  * (Internetware-NIER) Lezhi Ma, Han Wang, **Shangqing Liu\***, Lei Bu\*. **ACSLAgent: Generation and Synthesis of Formal Specifications for C programs via LLM-based Agent.** In Proceedings of the Internetware 2026 New Idea Track.
+  * (Internetware-NIER) Lezhi Ma, Han Wang, **Shangqing Liu\***, Lei Bu\*. **ACSLAgent: Generation and Synthesis of Formal Specifications for C programs via LLM-based Agent.** In Proceedings of the Internetware 2026 NIER.
   * (TOSEM) Wei Ma, Zhihao Lin, **Shangqing Liu\***, Qiang Hu\*, Ye Liu, Wenhan Wang, Cen Zhang, Liming Nie, Li Li, Yang Liu, Lingxiao Jiang. **Exploring Code Analysis: Zero-Shot Insights on Syntax and Semantics with LLMs.** In ACM Transactions on Software Engineering and Methodology.
   * (TOSEM) Tingwei Zhu, Zhongzhen Wen, **Shangqing Liu**, Yi Li, Tian Zhang, Xin Xia. **Assessing the Capability of LLMs for Deprecated API Usage Updating from Natural Language Descriptions.** In ACM Transactions on Software Engineering and Methodology.
   * (TSE) Suwan Li, Lei Bu, **Shangqing Liu**, Guangdong Bai, Fuman Xie, Kai Chen, Chang Yue. **When Voice Meets Touch: Conflict Analysis in Mobile Applications.** In IEEE Transactions on Software Engineering.
